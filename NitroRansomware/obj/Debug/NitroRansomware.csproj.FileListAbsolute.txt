@@ -1,0 +1,11 @@
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\bin\Debug\NitroRansomware.exe.config
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\bin\Debug\NitroRansomware.exe
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\bin\Debug\NitroRansomware.pdb
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.csproj.AssemblyReference.cache
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.csproj.SuggestedBindingRedirects.cache
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.Form1.resources
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.Properties.Resources.resources
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.csproj.GenerateResource.cache
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.csproj.CoreCompileInputs.cache
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.exe
+C:\Users\py\Desktop\Nitro-Ransomware-master\NitroRansomware\obj\Debug\NitroRansomware.pdb
