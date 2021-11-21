@@ -23,6 +23,5 @@ NitroRansomware is an academic ransomware made for learning and spreading awaren
  - Adds to startup registry
  - Grabs user's PC username, name, and uuid
  - Discord Nitro Checker 
- - Token Grabber
  - IP Grabber
  - Discord Webhook Logs
